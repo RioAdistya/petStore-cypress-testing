@@ -1,11 +1,11 @@
 # petStore-cypress-testing
 
-This repo is the source code reference for case study Cypress Automation (Modul 12) in myskill.i d QA course. 
+This repo is the source code reference for case study Cypress Automation (Modul 12) in myskill.id QA course. 
 
 How to run this repo
 1. Clone this repo with
 ```
-git clone https://github.com/alvintrianto/MySkill-Cypress.git
+git clone https://github.com/RioAdistya/petStore-cypress-testing.git
 ```
 2. Open the directory
 3. Install npm and cypress
